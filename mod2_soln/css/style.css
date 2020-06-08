@@ -24,6 +24,7 @@ h1 {
 h2 {
 	font-size: 1.25em;
 	float: right;
+	position: relative;
 	top:0px;
 	right: 0px;
 	border : 1px solid black;
